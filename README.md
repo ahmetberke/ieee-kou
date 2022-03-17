@@ -1,6 +1,6 @@
 # kou-ieee
 
-This website developed for IEEE KOU Student Branch.
+This website has been developed for IEEE KOU Student Branch by Compiter Society Committee.
 
 ## Recommended IDE Setup
 
