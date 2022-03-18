@@ -8,6 +8,8 @@
   --vt-c-black-soft: #222222;
   --vt-c-black-mute: #282828;
 
+  --color-purple: #632BE2;
+
   --vt-c-indigo: #2c3e50;
 
   --vt-c-divider-light-1: rgba(60, 60, 60, 0.29);
@@ -57,4 +59,20 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.color-purple {
+  color: var(--color-purple) !important;
+}
+
+.bg-purple {
+  background-color: var(--color-purple) !important;
+}
+
+.border-purple {
+  border-color: var(--color-purple) !important;
+}
+
+.color-black {
+  color: var(--vt-c-black) !important;
 }
