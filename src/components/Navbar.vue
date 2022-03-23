@@ -13,7 +13,7 @@ export default {
         text2 : "KOÜ" 
       },
       menuItems : [
-        {name : "Anasayfa", url:"/#", hasDropdown: false},
+        {name : "Home", url:"/#", hasDropdown: false},
         {name : "Hakkımızda", url:"/#hakkimizda", hasDropdown: false},
         {name: "Komiteler", url:"/#komiteler", hasDropdown: false}
       ], selectedMenuItem : {name : "Anasayfa", url:"/", hasDropdown: false},
