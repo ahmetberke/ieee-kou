@@ -27,7 +27,7 @@ export default {
 
 
 <template>
-  <nav class="h-24 absolute flex items-center w-full px-0 md:px-10 z-3">
+  <nav class="h-24 flex items-center w-full px-0 md:px-10 z-3">
     <div class="container max-w-8xl flex flex-wrap justify-between items-center mx-auto">
       <a href="#" class="flex items-center">
         <img class="ml-5 md:ml-0 h-5 md:h-10" src="@/assets/images/logo.png" alt="">

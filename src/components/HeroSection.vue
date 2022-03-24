@@ -13,7 +13,7 @@ export default ({
 
 
 <template>
-  <div class="z-2 w-full lg:w-3/5 max-w-3xl absolute top-24 bottom-0 flex items-center pl-12 pr-12 lg:pl-40 lg:pr-0 ">
+  <div class="z-2 w-full lg:w-3/5 max-w-3xl py-10 md:py-28 flex items-center pl-12 pr-12 lg:pl-40 lg:pr-0 ">
     <div class="h-auto w-auto">
       <div class="text-[#19659f] text-2xl font-bold mb-5">{{welcomeText}}</div>
       <div class="text-gray-900 text-5xl font-black">{{bigTextTop}}</div>
